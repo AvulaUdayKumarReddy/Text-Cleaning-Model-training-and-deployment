@@ -1,0 +1,23 @@
+Avinash Nuthalapati | avinash.reddy.nuthalapati-1@ou.edu | Helped me understand loading the countvectorizer and model file and predicting the new file.
+Nikhil Kumar Reddy Pyreddy | nikhilpyreddy@ou.edu | Helped me understand slicing the file name , loading the file data into data frame.
+ https://github.com/dipanjanS/text-analytics-with-python/blob/master/New-Second-Edition/Ch05%20-%20Text%20Classification/text_normalizer.py |}helped me to write cleaning functioms  and i copied the code from this link to notebook file and project3.py
+https://www.analyticsvidhya.com/blog/2021/08/a-friendly-guide-to-nlp-text-pre-processing-with-python-example/ | helped me to understand the cleaning functions applying on the data frames.
+https://stackoverflow.com/questions/57438375/valueerror-x-has-29-features-per-sample-expecting-84| Helped me to solve the feature error
+https://docs.python.org/3/library/argparse.html | helped me write the arguemnts in the command
+https://www.geeksforgeeks.org/how-to-append-pandas-dataframe-to-existing-csv-file/ | helped me  for converting the files to tab seperated files.
+https://scikit-learn.org/stable/model_persistence.html | helped me understand the save the model
+https://towardsdatascience.com/elbow-method-is-not-sufficient-to-find-best-k-in-k-means-clustering-fc820da0631d | Helped me to understand the elbow method  
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html | Helped me to write K means
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html | helped me to write Hierachal clustering
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html#sklearn.cluster.DBSCAN | Helped me to write DBscan algorithms
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html#sklearn.metrics.silhouette_score | Helped me to understand silhoutte_score
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.calinski_harabasz_score.html#sklearn.metrics.calinski_harabasz_score | helped me to understand calinski score
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.davies_bouldin_score.html#sklearn.metrics.davies_bouldin_score | helped me to understand  davies score
+
+https://github.com/dipanjanS/text-analytics-with-python/blob/master/New-Second-Edition/Ch05%20-%20Text%20Classification/text_normalizer.py | helped me with text normalization
+https://www.analyticsvidhya.com/blog/2021/08/a-friendly-guide-to-nlp-text-pre-processing-with-python-example/ | helped me with preprocessing
+
+https://stackoverflow.com/questions/33998802/get-list-of-pdf-files-in-folder | helped me with reading and storing files in list
+https://www.geeksforgeeks.org/how-to-create-an-empty-dataframe-and-append-rows-columns-to-it-in-pandas/ | helped to create dataframe with list
+https://stackoverflow.com/questions/34837707/how-to-extract-text-from-a-pdf-file | helped me to extract text from pdf
+https://towardsdatascience.com/elbow-method-is-not-sufficient-to-find-best-k-in-k-means-clustering-fc820da0631d| Helped me with the elbow method
