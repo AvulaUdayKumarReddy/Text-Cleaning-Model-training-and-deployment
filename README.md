@@ -1,11 +1,9 @@
-## Project3  
-#### steps to run project3   
+## Text cleaning, Model Training and deployment 
 ##### Installation  
 pyenv install 3.10.1  
 pyenv global 3.10.1  
 pip install --upgrade pip  
 ##### Running  
-- cd cs5293sp23-project3/
 - pipenv shell
 - python project3.py --document "AK Anchorage.pdf"
 - pipenv run python -m pytest (to run test cases)
