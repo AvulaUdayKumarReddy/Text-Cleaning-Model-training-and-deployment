@@ -1,3 +1,4 @@
+## The project that emphasizes text preprocessing, Traning the model and also deployment of that so that it can be used for prediction purposes.
 ## Text cleaning, Model Training and deployment 
 ##### Installation  
 pyenv install 3.10.1  
